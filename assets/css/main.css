@@ -1,0 +1,41 @@
+/*
+*Author: Felix Devid
+*Descrption: login box,header,body, button
+*/
+#login_box{
+    min-height: 270px;
+    padding-left: 0px;
+    padding-top: 15px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0,0,0, .5);   
+    background-color: white;
+}
+
+
+#header-content{
+    height: 100px;
+    width: 100%;
+    background: linear-gradient(to bottom,#0093D0 ,#0093D0,#FFFFFF);
+    margin-bottom: 40px;
+}
+
+
+ .btn-default {
+    background: none repeat scroll 0 0 #0093D0;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+
+
+body{
+ background-color: white;   
+}
+
+#reg_form{
+    background: lightskyblue;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+    margin-top: 20px;
+    padding: 19px
+}
