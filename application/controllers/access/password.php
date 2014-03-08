@@ -286,7 +286,7 @@ class Password extends CI_Controller{
                                         'smtp_host' => 'ssl://smtp.googlemail.com',
                                         'smtp_port' => 465,
                                         'smtp_user' => 'dazyd2f@gmail.com',
-                                        'smtp_pass' => '04078618',
+                                        'smtp_pass' => '',
                                         'mailtype' => 'html'
 
                                     );
